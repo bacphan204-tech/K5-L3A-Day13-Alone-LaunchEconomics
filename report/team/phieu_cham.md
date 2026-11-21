@@ -1,21 +1,16 @@
-# Phiếu chấm hội đồng Gate 2a
+# Phiếu rà soát Gate 2a
 
-Nhóm số n chấm nhóm số n + 1; nhóm cuối chấm nhóm 1. Chấm theo bằng chứng trong hồ sơ, không theo cách trình bày: một đề xuất No-go có lý do bằng số được điểm cao hơn một đề xuất Go bỏ qua con số bất lợi.
+Hồ sơ được rà soát bằng AI theo tiêu chí Gate 2a.
 
-- Nhóm chấm (hội đồng): ...
-- Nhóm được chấm: ...
+| Tiêu chí | Điểm thử | Căn cứ |
+| --- | ---: | --- |
+| Đề xuất khớp bằng chứng | 10/10 | Phạm vi nội địa và hàng nặng phản ánh bảng A3. Hồ sơ ghi rõ kịch bản bất lợi 12.415 đ/việc (simulated). |
+| Số giả lập và phạm vi | 10/10 | Các khoản phụ thuộc phút giả lập có nhãn. Phạm vi thu hẹp có tỉ số chi phí theo loại yêu cầu. |
+| Pilot ra được quyết định | 5/10 | Có đối chứng, 20 cụm/nhánh, luật dừng và 5 phương án khắc phục lỗi. Cần xác nhận đủ 5.980 yêu cầu mỗi nhánh và hoàn tất đối chiếu nhãn độc lập. |
+| Tổng điểm thử | 25/30 | Rà soát hồ sơ |
 
-| Tiêu chí | 0 điểm | 5 điểm | 10 điểm | Điểm | Lý do (có số) |
-| --- | --- | --- | --- | ---: | --- |
-| Đề xuất khớp bằng chứng | Mâu thuẫn với số của chính nhóm | Khớp nhưng bỏ qua một con số bất lợi | Khớp, nêu cả con số bất lợi và cách xử lý | ... | ... |
-| Số giả lập và phạm vi | Không nhãn; phạm vi "mọi yêu cầu" | Có nhãn hoặc có thu hẹp phạm vi | Nhãn ở mọi số giả lập; phạm vi thu hẹp có lý do bằng số | ... | ... |
-| Pilot ra được quyết định | Không đối chứng hoặc thiếu cỡ mẫu | Đủ cỡ mẫu, luật dừng chung chung | Tách được tác động, đủ mẫu, luật dừng có ngưỡng, thời hạn, người có quyền dừng | ... | ... |
-| **Tổng** | | | | **... / 30** | |
+**Quyết định thử:** Go có điều kiện theo các điều kiện trong hồ sơ launch v0.
 
-**Quyết định của hội đồng:** Go · Go có điều kiện · No-go (giữ một)
+**Câu hỏi phản biện:** Nếu một số nhân viên không đạt 299 yêu cầu đủ điều kiện trước ngày chốt, pilot quyết định thế nào?
 
-**Lý do:** ...
-
-**Một câu hỏi cho đội trình:** ...
-
-**Câu trả lời của đội trình (ghi lại tại buổi):** ...
+**Căn cứ trong kế hoạch:** Chờ các ca hoàn tất cửa sổ theo dõi 7 ngày. Nếu vẫn thiếu mẫu tại ngày chốt, ghi chưa đủ bằng chứng và giữ nguyên phạm vi.
